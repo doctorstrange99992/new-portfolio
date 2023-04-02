@@ -416,8 +416,8 @@ span{
     }
 }
 
-@media (max-width: 1000px){
-    #menu-icons{
+@media (max-width: 768px){
+    #menu-icon{
         display: block;
     }
 }
