@@ -419,6 +419,7 @@ span{
     #menu-icons{
         display: block;
     }
+}
 
     .navbar{
         position: absolute;
@@ -492,6 +493,7 @@ span{
     html{
         font-size: 50%;
     }
+}
 
     .contact form .input-box input{
         width: 100%;
@@ -502,6 +504,7 @@ span{
     .home-img img{
         width: 90vw;
     }
+}
 
     .about-img img{
         width: 90vw;
